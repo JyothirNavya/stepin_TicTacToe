@@ -1,8 +1,8 @@
-**INTRODUCTION**
+# INTRODUCTION
   
   Tic-Tac-Toe (or Noughts and crosses, Xs and Os) is a pencil-and-paper game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.Players soon discover that best play from both parties leads to a draw (often referred to as cat or cat's game). Hence, Tic-tac-toe is most often played by young children.The friendliness of Tic-tac-toe games makes them ideal as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence that deals with the searching of game trees. It is straightforward to write a computer program to play Tic-tac-toe perfectly, to enumerate the 765 essentially different positions (the state space complexity), or the 26,830 possible games up to rotations and reflections (the game tree complexity) on this space.
   
-  **HISTORY**
+  ## **HISTORY**
   
   An early variant of Tic-tac-toe was played in the Roman Empire, around the first century BC. It was called Terni Lapilli and instead of having any number of pieces, each player only had three, thus they had to move them around to empty spaces to keep playing. The game's grid markings have been found chalked all over Rome. However, according to Claudia Zaslavsky's book Tic Tac Toe: And Other Three-In-A Row Games from Ancient Egypt to the Modern Computer, Tic-tac-toe could originate back to ancient Egypt. Another closely related ancient game is Three Men's Morris which is also played on a simple grid and requires three pieces in a row to finish.
 
@@ -12,7 +12,7 @@
 
 ->In 1975, Tic-tac-toe was also used by MIT students to demonstrate the computational power of Tinkertoy elements. The Tinkertoy computer, made out of (almost) only Tinkertoys, is able to play Tic-tac-toe perfectly. It is currently on display at the Museum of Science, Boston.
   
-**VARIATIONS OF TIC TAC TOE**
+### **VARIATIONS OF TIC TAC TOE**
 
 ->In Misère tic-tac-toe the player wins if the opponent gets n in a row. A 3? game is a draw.
 Tic Tac Tactic: A new game played on a three-dimensional board. Each player takes it in turns to send their ball at least half way round the curved board until it drops down into one of the 9 indents of the 3 x 3 grid. The player wins balls by forming a row of 3, and they can, using a rubber device, change the outcome of their ball's path and bounce their ball to where they want. Each 3-in-a-row wins a ball of the player. The winner is skilful enough to have won five balls off his opponent
@@ -22,7 +22,7 @@ Tic Tac Tactic: A new game played on a three-dimensional board. Each player take
 
 ->In Tic-Tac-Chess, players play a game of chess and Tic-tac-toe simultaneously. When a player captures an opponent's piece, the player can make a play on the Tic-tac-toe board regardless if the other player has not yet made a play. The first person to get 3 Xs or Os in a row wins the game. This makes for a much more defensive game of chess.
   
-**HOW TO PLAY**
+### **HOW TO PLAY**
 
 1.Choose your opponent
 
@@ -38,9 +38,9 @@ Tic Tac Tactic: A new game played on a three-dimensional board. Each player take
 
 7.Use the top left menu to reset your scores for the current opponent
 
-**ABOUT TIC TAC TOE**
+### **ABOUT TIC TAC TOE**
 
-***RULES***
+#### ***RULES***
 
 Tic-Tac-Toe is a simple and fun game for 2 players, X and O. It is played on a 3x3 grid. Each player's goal is to make 3 in a row.Typically, X starts first, but in Gametable's Tabletop Tic Tac Toe, Player 1 starts first on the first game and Player 2 (or the computer) starts first on the next game. The starting player continues to alternate from game to game. This helps keep gameplay fair over time.
 Players take turns placing their Mark, X or O, on an open square in the grid. The first player to make 3 of their own mark in a row vertically, horizontally, or diagonally wins the game.If all 9 squares are filled and neither player has 3 in a row, the game is considered a Tie.The expert artificial intelligence (AI) will play a perfect game. Try your best to Tie it for as long as you can!
