@@ -1,4 +1,0 @@
-                            SYSTEM ARCHITECTURE DESIGN
-
-This system will use a Model-View-Controller architecture. The Model for this TicTacToe game includes a mutable GameState which has two Player’s. The Model also contains a simple Move class for storing row-column pairs. The View for this system has a main TicTacToeFrame which contains the other instantiated objects of this package. The BoardPanel displays the GameState for the TicTacToe game. The three dialogs will display information about the system and menus for starting a new game. The Controller contains the Main class as well as the GameFlowController which controls the flow of this turn based game. The Controller also contains the three event listeners which will handle all actions and mouse events which occur in the View. Finally, the Controller contains an AI class which provides varying levels of artificial intelligence for a human player to play against.
-
