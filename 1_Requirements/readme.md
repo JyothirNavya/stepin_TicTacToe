@@ -57,6 +57,21 @@ Tic-Tac-Toe is a long beloved classic pen and paper or board game for two player
 
 Tic Tac Toe is known by a few other names around the world. The most common of these is "Noughts and Crosses" and it is sometimes simply referred to as the "XO game."
 
+# SWOT ANALYSIS
+![SWOT ANALYSIS](https://user-images.githubusercontent.com/89633248/132447836-b32332ec-90fd-48d3-b5f5-b7e09317750a.png)
+
+**THE FIVE W'S AND ONE 1 H'S**
+
+The Five Ws, Five Ws and one H, or the Six Ws are questions whose answers are considered basic in information-gathering. They include Who, What, When Where, and Why. The 5 Ws are often mentioned in journalism (cf. news style), research, and police investigations. They constitute a formula for getting the complete story on a subject. According to the principle of the Five Ws, a report can only be considered complete if it answers these questions starting with an interrogative word
+
+# WHO is it about?
+What happened?
+When did it take place?
+Where did it take place?
+Why did it happen?
+
+
+How did it happen
 
 
 
