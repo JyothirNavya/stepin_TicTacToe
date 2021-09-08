@@ -15,6 +15,6 @@ TEST PLAN:
  ![Screenshot](https://user-images.githubusercontent.com/89633248/132378131-18ad1083-3b2c-4733-8cb0-6e7a154f07e1.png)
  
                                        TEST TABLE
- |
-
-                                 
+ 
+|  Test No  |  Description  |  Exp I/p  |  Exp O/P  |  Actual Output  |  Type of Test  |
+                              
