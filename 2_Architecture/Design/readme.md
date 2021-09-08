@@ -16,7 +16,7 @@ The getBoard method returns the board variable. The update repaints and performs
 
 ![FRAME](https://user-images.githubusercontent.com/89633248/132451765-81f0a9b8-925d-499a-82f5-6437a7558626.png)
 
-### The Game theory
+## The Game theory
 
 The game of Noughts and Crosses or Tic Tac Toe is well known throughout the world and variants are thought to have been played over 2000 years ago in Rome. It’s a very simple game – the first person to get 3 in a row wins. In fact it’s so simple that it has been “solved” – before any move has been played we already know it should result in a draw (as long as the participants play optimal moves).The way to solve Noughts and Crosses is to use combinatorial Game Theory – which is a branch of mathematics that allows us to analyses all different outcomes of an event.
 
@@ -26,6 +26,6 @@ This is the start of the game tree for Noughts and Crosses. We can expand this g
 
 ![theory 2](https://user-images.githubusercontent.com/89633248/132454015-fc1d4ac0-d430-4234-9886-b01f8197cd1b.jpg)
 
-# ARCHITECTURE
+## ARCHITECTURE
 
 ![architecture](https://user-images.githubusercontent.com/89633248/132454121-9b51ca97-a19f-4c7b-85bd-cadd95e004da.png)
