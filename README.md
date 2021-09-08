@@ -6,3 +6,4 @@
 
 ![Code Inspector](https://www.code-inspector.com/project/28064/status/svg)
 
+[![Git Inspector](https://github.com/JyothirNavya/stepin_TicTacToe/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/JyothirNavya/stepin_TicTacToe/actions/workflows/Git%20Inspector.yml)
