@@ -1,3 +1,4 @@
+
 name: cppcheck-action-test
 on: [push]
 
