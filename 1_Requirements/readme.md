@@ -60,18 +60,39 @@ Tic Tac Toe is known by a few other names around the world. The most common of t
 # SWOT ANALYSIS
 ![SWOT ANALYSIS](https://user-images.githubusercontent.com/89633248/132447836-b32332ec-90fd-48d3-b5f5-b7e09317750a.png)
 
-**THE FIVE W'S AND ONE 1 H'S**
+**THE FIVE W'S**
 
 The Five Ws, Five Ws and one H, or the Six Ws are questions whose answers are considered basic in information-gathering. They include Who, What, When Where, and Why. The 5 Ws are often mentioned in journalism (cf. news style), research, and police investigations. They constitute a formula for getting the complete story on a subject. According to the principle of the Five Ws, a report can only be considered complete if it answers these questions starting with an interrogative word
 
-# WHO is it about?
-What happened?
-When did it take place?
-Where did it take place?
-Why did it happen?
+## What
+
+Answering the “What?” question shows the main objective of any project. After all, your desired result is what you should start with.
+
+## Who
+
+Knowing who will be visiting your website will help you deliver a highly personalized user experience. This, in turn, increases your engagement and conversion rates.Understanding where the needs of your users overlap with what you are offering makes new customer acquisition easier.
+
+## Why
+
+Why are you creating this website? Do you want to sell your products or services, generate leads, or create engagement?You don’t want to confuse your customers when they land on your site. It’s important to fully understand your purpose.Being clear about the “Why?” question helps you to guide your users to the actions that you wish them to take.
+
+## When
+
+Through “When?” questions, you can work out the overall timeline of your web development project.
+You can time manage events based on your needs. This helps you achieve the efficiency that you need to ensure that the project is finished on time.
+
+## Where
+
+The “Where?” questions focus on the geographic and logistical aspects of your project.These questions are important when trying to figure out whether there should be any changes made around your project in regards to a location.
 
 
-How did it happen
+## 5 W and 1 H recap
+
+By answering the 5 W and 1 H questions, you can achieve everything from solving complex problems to planning a project.
+
+Whether you’re creating a website or writing a post, use these questions as a checklist for guiding your decisions.
+
+You will be able to accelerate your workflow, getting rid of holdups in the process.
 
 
 
